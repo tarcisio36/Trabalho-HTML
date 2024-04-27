@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0%;
+
+}
+
+#container{
+    display: flex;
+    align-items: end;
+    
+}
+.imagem{
+    width: 700px;
+}
