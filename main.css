@@ -1,8 +1,19 @@
 img {
-  width: 500px;
+  width: 700px;
 }
 
 .container {
   display: flex;
   align-items: center;
+  font-size: xx-large;
+}
+
+#links {
+  background-color: rgb(122, 121, 121);
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  font-size: x large;
+  justify-content: space-around;
+  flex-direction: row;
 }
