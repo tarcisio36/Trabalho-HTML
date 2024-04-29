@@ -1,0 +1,28 @@
+main.css
+.container {
+    display: flex;
+    align-items: normal;
+    font-size: 130%;
+}
+
+img {
+    width: 550px;
+    flex-shrink: 0;
+    margin-right: 10px;
+  }
+  
+
+.organizaçãoconteiner {
+    display: flex;
+    align-items: center
+}
+
+.links {
+  background-color: rgb(122, 121, 121);
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  font-size: x large;
+  justify-content: space-around;
+  flex-direction: row;
+}
