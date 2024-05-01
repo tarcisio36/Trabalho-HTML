@@ -1,24 +1,28 @@
 .container {
-    display: flex;
-    align-items: normal;
-    font-size: 130%;
+  display: flex;
+  align-items: normal;
+  font-size: 130%;
 }
 
 img {
-    width: 550px;
-    flex-shrink: 0;
-    margin-right: 10px;
+  width: 550px;
+  margin-right: 10px;
 }
-  
 
 .organizaçãoconteiner {
-    display: flex;
-    align-items: center
+  display: flex;
+  align-items: normal;
 }
 
 .texto {
-    padding-top: 50px;
-    font-size: x-large;
+  display: flex;
+  align-items: center;
+  font-size: large;
+}
+
+.lista {
+  align-items: center;
+  font-size: large;
 }
 
 .links {

@@ -5,7 +5,13 @@ img {
 .container {
   display: flex;
   align-items: normal;
-  font-size: 130%;
+}
+
+.texto {
+  display: flex;
+  align-items: center;
+  font-size: 120%;
+  margin-left: 1%;
 }
 
 #links {
