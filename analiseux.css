@@ -1,0 +1,25 @@
+img {
+  width: 700px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  font-size: xx-large;
+}
+
+.texto {
+  align-items: center;
+  font-size: x-large;
+  margin-left: 1%;
+}
+
+#links {
+  background-color: rgb(122, 121, 121);
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  font-size: x large;
+  justify-content: space-around;
+  flex-direction: row;
+}

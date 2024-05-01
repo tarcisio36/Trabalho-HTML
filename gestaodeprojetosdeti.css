@@ -1,0 +1,26 @@
+img {
+  width: 550px;
+}
+
+.container {
+  display: flex;
+  align-items: normal;
+}
+
+.texto {
+  display: flex;
+  align-items: center;
+  font-size: x-large;
+  text-justify: distribute;
+  margin-left: 1%;
+}
+
+#links {
+  background-color: rgb(122, 121, 121);
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  font-size: x large;
+  justify-content: space-around;
+  flex-direction: row;
+}
