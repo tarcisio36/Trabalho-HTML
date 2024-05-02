@@ -1,25 +1,19 @@
+img {
+  width: 500px;
+}
 .container {
   display: flex;
   align-items: normal;
-  font-size: 120%;
-}
-
-img {
-  width: 550px;
-  margin-right: 10px;
-}
-
-.organizaçãoconteiner {
-  display: flex;
-  align-items: normal;
+  font-size: x-large;
 }
 
 .texto {
-  padding-bottom: 10px;
-  font-size: xx-large;
+  align-items: center;
+  font-size: 140%;
+  margin: 1%;
 }
 
-.links {
+#links {
   background-color: rgb(122, 121, 121);
   width: 100%;
   padding: 20px;
